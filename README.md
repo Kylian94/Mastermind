@@ -3,7 +3,7 @@ Project of the third year at Webstart, Paris.
 
 Developped in java
 
- ![zoom img](http://img.kp-dev.fr/mastermind-java.jpg) 
+ ![zoom img](http://img.kp-dev.fr/mastermind-java.png) 
 
 ---
 
